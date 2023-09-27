@@ -21,6 +21,7 @@ requirements:
     - python >=3.6
     - pip
     - jupyterlab <4
+    - jupyter-packaging
   run:
     - python >=3.6
 
